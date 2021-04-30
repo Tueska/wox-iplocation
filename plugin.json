@@ -1,0 +1,12 @@
+{
+    "ID": "d25c9e7ca98811ebbcbc0242ac130002",
+    "ActionKeyword": "ip",
+    "Name": "IP to Geolocation",
+    "Description": "Locate and identiy website visitors by IP address",
+    "Author": "Tueska",
+    "Version": "1.0.0",
+    "Language": "python",
+    "Website": "https://github.com/Tueska/wox-iplocaton",
+    "IcoPath": "ipstack.png",
+    "ExecuteFileName": "run.py"
+}
