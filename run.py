@@ -30,7 +30,7 @@ class HelloWorld(Wox):
             })
             results.append({
                 "Title": "{} {}".format(location['city'], location['district']),
-                "SubTitle": location['zip'],
+                "SubTitle": 'ZIP Code: {}'.format(location['zip']),
                 "IcoPath": 'ipstack.png',
                 "ContextData": "ctxData"
             })
